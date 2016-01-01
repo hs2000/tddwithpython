@@ -3,3 +3,4 @@ manage.py
 db.sqlite3
 superlists/__pycache__
 lists/__pycache__
+lists/migrations/__pycache__/
