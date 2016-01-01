@@ -8,6 +8,7 @@ Tools: atom
        django 1.8
        selenium
        virtualenv
+       unittest
        git
        github
 
