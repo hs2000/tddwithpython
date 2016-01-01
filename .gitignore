@@ -2,3 +2,4 @@ ve/
 manage.py
 db.sqlite3
 superlists/__pycache__
+lists/__pycache__
